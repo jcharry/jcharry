@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 const boxSize = 30
-const gutterSize = 10
+const gutterSize = 0
 const gridSize = [20, 4]
 
 const width = gridSize[0] * boxSize + (gridSize[0] - 1) * gutterSize
