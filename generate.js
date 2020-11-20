@@ -5,7 +5,7 @@ const gutterSize = 10
 const gridSize = [20, 4]
 
 const width = gridSize[0] * boxSize + (gridSize[0] - 1) * gutterSize
-const height = gridSize[1] * boxSize + (gridSize[0] - 1) * gutterSize
+const height = gridSize[1] * boxSize + (gridSize[1] - 1) * gutterSize
 
 const frameSize = [width, height]
 
