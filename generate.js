@@ -12,13 +12,14 @@ const frameSize = [width, height]
 const mainTag = `<svg viewBox="0 0 ${frameSize[0]} ${frameSize[1]}">`
 const closingTab = '</svg>'
 
-const makeRandomByteInt = () => Math.floor(Math.random() * 256)
-const averageColor = (a, b) => Math.floor((a + b) / 2)
+// const makeRandomByteInt = () => Math.floor(Math.random() * 256)
+// const averageColor = (a, b) => Math.floor((a + b) / 2)
 
-const makeColor = mix => {
-  const color = [makeRandomByteInt(), makeRandomByteInt(), makeRandomByteInt()]
+const makeColor = (i, j) => {
+  const baseColor = [224, 141, 0]
+  return [baseColor[0] + i, baseColor[1] + j, 0]
 
-  return color.map((c, i) => averageColor(c, mix[i]))
+  // return color.map((c, i) => averageColor(c, mix[i]))
 }
 
 const rects = []
@@ -27,34 +28,34 @@ for (let i = 0; i < gridSize[0]; i++) {
   for (let j = 0; j < gridSize[1]; j++) {
     const x = i * boxSize + i * (gutterSize - 1)
     const y = j * boxSize + j * (gutterSize - 1)
-    const startColor = `rgb(${makeColor([255, 255, 255]).join(',')})`
-    const stopColor = `rgb(${makeColor([255, 255, 255]).join(',')})`
-    const randomDuration = Math.floor(Math.random() * 1000) + 1000
+    const startColor = `rgb(${makeColor(i, j).join(',')})`
+    const stopColor = `rgb(${makeColor(i, j).join(',')})`
+    const randomDuration = 2000
     rects.push(
       `<rect x="${x}px" y="${y}px" width="${boxSize}px" height="${boxSize}" fill="url(#${x}-${y})" filter="url(#blurMe)"></rect>`
     )
 
-    defs.push(`
-
-<linearGradient id="${x}-${y}">
-  <stop offset="0%" stop-color="${startColor}">
-    <animate
-      attributeName="offset"
-      dur="${randomDuration}ms"
-      values="0;0.1;0.2;0.3;0.4"
-      repeatCount="indefinite"
-    />
-  </stop>
-  <stop offset="100%" stop-color="${stopColor}">
-    <animate
-      attributeName="offset"
-      dur="${randomDuration}ms"
-      values="0.3;0.7;0.8;0.9;1"
-      repeatCount="indefinite"
-    />
-  </stop>
-</linearGradient>
-    `)
+    //     defs.push(`
+    //
+    // <linearGradient id="${x}-${y}">
+    //   <stop offset="0%" stop-color="${startColor}">
+    //     <animate
+    //       attributeName="offset"
+    //       dur="${randomDuration}ms"
+    //       values="0;0.1;0.2;0.3;0.4"
+    //       repeatCount="indefinite"
+    //     />
+    //   </stop>
+    //   <stop offset="100%" stop-color="${stopColor}">
+    //     <animate
+    //       attributeName="offset"
+    //       dur="${randomDuration}ms"
+    //       values="0.3;0.7;0.8;0.9;1"
+    //       repeatCount="indefinite"
+    //     />
+    //   </stop>
+    // </linearGradient>
+    //     `)
   }
 }
 
