@@ -29,6 +29,7 @@ for (let i = 0; i < gridSize[0]; i++) {
     const y = j * boxSize + j * (gutterSize - 1)
     const startColor = `rgb(${makeColor([255, 255, 255]).join(',')})`
     const stopColor = `rgb(${makeColor([255, 255, 255]).join(',')})`
+    const randomDuration = Math.floor(Math.random * 1000) + 1000
     rects.push(
       `<rect x="${x}px" y="${y}px" width="${boxSize}px" height="${boxSize}" fill="url(#${x}-${y})" filter="url(#blurMe)"></rect>`
     )
@@ -39,7 +40,7 @@ for (let i = 0; i < gridSize[0]; i++) {
   <stop offset="0%" stop-color="${startColor}">
     <animate
       attributeName="offset"
-      dur="2000ms"
+      dur="${randomDuration}ms"
       values="0;0.1;0.2;0.3;0.4"
       repeatCount="indefinite"
     />
@@ -47,7 +48,7 @@ for (let i = 0; i < gridSize[0]; i++) {
   <stop offset="100%" stop-color="${stopColor}">
     <animate
       attributeName="offset"
-      dur="2000ms"
+      dur="${randomDuration}ms"
       values="0.3;0.7;0.8;0.9;1"
       repeatCount="indefinite"
     />
