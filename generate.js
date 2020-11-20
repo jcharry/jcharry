@@ -28,12 +28,21 @@ for (let i = 0; i < gridSize[0]; i++) {
   for (let j = 0; j < gridSize[1]; j++) {
     const x = i * boxSize + i * (gutterSize - 1)
     const y = j * boxSize + j * (gutterSize - 1)
-    const startColor = `rgb(${makeColor(i, j).join(',')})`
-    const stopColor = `rgb(${makeColor(i, j).join(',')})`
+    const startColor = `rgb(${makeColor(i, j).join(',')}, 0.5)`
+    const stopColor = `rgb(${makeColor(i, j).join(',')}, 0.5)`
     const randomDuration = 2000
+    const begin = (i + j) * 250
     rects.push(
-      `<circle r="${boxSize}px" x="${x}px" y="${y}px" width="${boxSize}px" height="${boxSize}" fill="startColor" filter="url(#blurMe)"></rect>`
+      `<rect width="${boxSize}px" height="${boxSize}px" x="${x}px" y="${y}px" fill="${startColor}" filter="url(#blurMe)">
+        <animateTransform attributeName="transform" type="scale" values="1;1.5;1" begin="${begin}ms" dur="2000ms" repeatCount="indefinite"/>
+      </rect>`
     )
+    // rects.push(
+    //   `<circle r="${boxSize /
+    //     2}px" cx="${x}px" cy="${y}px" fill="${startColor}" filter="url(#blurMe)">
+    //     <animateTransform attributeName="transform" type="scale" values="1;1.5;1" begin="${begin}ms" dur="2000ms" repeatCount="indefinite"/>
+    //   </circle>`
+    // )
 
     //     defs.push(`
     //
