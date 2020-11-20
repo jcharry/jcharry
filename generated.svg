@@ -1,5 +1,5 @@
 
-<svg viewBox="0 0 790 310">
+<svg version="1.1" width="790" height="310" viewBox="0 0 790 310">
   <defs>
     <filter id="blurMe">
      <feGaussianBlur stdDeviation="1"/>
@@ -7,7 +7,7 @@
     
 
 <linearGradient id="0-0">
-  <stop offset="0%" stop-color="rgb(131,246,243)">
+  <stop offset="0%" stop-color="rgb(168,197,218)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -15,7 +15,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(221,152,218)">
+  <stop offset="100%" stop-color="rgb(154,142,244)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -28,7 +28,7 @@
 
 
 <linearGradient id="0-39">
-  <stop offset="0%" stop-color="rgb(153,238,208)">
+  <stop offset="0%" stop-color="rgb(218,158,181)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -36,7 +36,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(166,177,197)">
+  <stop offset="100%" stop-color="rgb(165,173,127)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -49,7 +49,7 @@
 
 
 <linearGradient id="0-78">
-  <stop offset="0%" stop-color="rgb(196,139,131)">
+  <stop offset="0%" stop-color="rgb(168,179,176)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -57,7 +57,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(185,210,154)">
+  <stop offset="100%" stop-color="rgb(140,145,137)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -70,7 +70,7 @@
 
 
 <linearGradient id="0-117">
-  <stop offset="0%" stop-color="rgb(128,186,171)">
+  <stop offset="0%" stop-color="rgb(197,208,162)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -78,7 +78,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(143,133,195)">
+  <stop offset="100%" stop-color="rgb(200,132,139)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -91,7 +91,7 @@
 
 
 <linearGradient id="39-0">
-  <stop offset="0%" stop-color="rgb(181,141,210)">
+  <stop offset="0%" stop-color="rgb(129,231,226)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -99,7 +99,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(203,230,196)">
+  <stop offset="100%" stop-color="rgb(140,188,158)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -112,7 +112,7 @@
 
 
 <linearGradient id="39-39">
-  <stop offset="0%" stop-color="rgb(203,145,143)">
+  <stop offset="0%" stop-color="rgb(248,196,172)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -120,7 +120,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(189,197,204)">
+  <stop offset="100%" stop-color="rgb(232,151,192)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -133,7 +133,7 @@
 
 
 <linearGradient id="39-78">
-  <stop offset="0%" stop-color="rgb(143,132,168)">
+  <stop offset="0%" stop-color="rgb(214,171,207)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -141,7 +141,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(143,241,182)">
+  <stop offset="100%" stop-color="rgb(222,204,248)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -154,7 +154,7 @@
 
 
 <linearGradient id="39-117">
-  <stop offset="0%" stop-color="rgb(167,145,188)">
+  <stop offset="0%" stop-color="rgb(252,166,245)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -162,7 +162,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(178,163,244)">
+  <stop offset="100%" stop-color="rgb(159,146,225)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -175,7 +175,7 @@
 
 
 <linearGradient id="78-0">
-  <stop offset="0%" stop-color="rgb(209,167,250)">
+  <stop offset="0%" stop-color="rgb(236,244,154)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -183,7 +183,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(130,192,235)">
+  <stop offset="100%" stop-color="rgb(219,208,134)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -196,7 +196,7 @@
 
 
 <linearGradient id="78-39">
-  <stop offset="0%" stop-color="rgb(139,138,166)">
+  <stop offset="0%" stop-color="rgb(145,149,196)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -204,7 +204,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(216,194,203)">
+  <stop offset="100%" stop-color="rgb(217,151,133)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -217,7 +217,7 @@
 
 
 <linearGradient id="78-78">
-  <stop offset="0%" stop-color="rgb(237,148,187)">
+  <stop offset="0%" stop-color="rgb(133,184,171)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -225,7 +225,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(204,144,205)">
+  <stop offset="100%" stop-color="rgb(196,221,239)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -238,7 +238,7 @@
 
 
 <linearGradient id="78-117">
-  <stop offset="0%" stop-color="rgb(221,135,155)">
+  <stop offset="0%" stop-color="rgb(202,128,215)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -246,7 +246,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(201,129,143)">
+  <stop offset="100%" stop-color="rgb(178,138,185)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -259,7 +259,7 @@
 
 
 <linearGradient id="117-0">
-  <stop offset="0%" stop-color="rgb(197,204,217)">
+  <stop offset="0%" stop-color="rgb(142,167,177)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -267,7 +267,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(202,199,160)">
+  <stop offset="100%" stop-color="rgb(154,168,244)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -280,7 +280,7 @@
 
 
 <linearGradient id="117-39">
-  <stop offset="0%" stop-color="rgb(140,209,139)">
+  <stop offset="0%" stop-color="rgb(144,251,174)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -288,7 +288,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(154,241,170)">
+  <stop offset="100%" stop-color="rgb(195,186,192)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -301,7 +301,7 @@
 
 
 <linearGradient id="117-78">
-  <stop offset="0%" stop-color="rgb(206,251,250)">
+  <stop offset="0%" stop-color="rgb(229,151,159)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -309,7 +309,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(240,162,166)">
+  <stop offset="100%" stop-color="rgb(163,163,214)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -322,7 +322,7 @@
 
 
 <linearGradient id="117-117">
-  <stop offset="0%" stop-color="rgb(154,168,203)">
+  <stop offset="0%" stop-color="rgb(224,143,183)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -330,7 +330,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(245,138,204)">
+  <stop offset="100%" stop-color="rgb(129,167,163)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -343,7 +343,7 @@
 
 
 <linearGradient id="156-0">
-  <stop offset="0%" stop-color="rgb(142,230,205)">
+  <stop offset="0%" stop-color="rgb(133,179,195)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -351,7 +351,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(173,237,169)">
+  <stop offset="100%" stop-color="rgb(148,173,187)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -364,7 +364,7 @@
 
 
 <linearGradient id="156-39">
-  <stop offset="0%" stop-color="rgb(212,167,176)">
+  <stop offset="0%" stop-color="rgb(129,174,146)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -372,7 +372,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(249,252,219)">
+  <stop offset="100%" stop-color="rgb(219,203,128)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -385,7 +385,7 @@
 
 
 <linearGradient id="156-78">
-  <stop offset="0%" stop-color="rgb(217,235,180)">
+  <stop offset="0%" stop-color="rgb(196,203,136)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -393,7 +393,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(177,195,186)">
+  <stop offset="100%" stop-color="rgb(217,233,234)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -406,7 +406,7 @@
 
 
 <linearGradient id="156-117">
-  <stop offset="0%" stop-color="rgb(181,158,150)">
+  <stop offset="0%" stop-color="rgb(247,148,174)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -414,7 +414,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(201,182,151)">
+  <stop offset="100%" stop-color="rgb(174,189,239)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -427,7 +427,7 @@
 
 
 <linearGradient id="195-0">
-  <stop offset="0%" stop-color="rgb(138,222,202)">
+  <stop offset="0%" stop-color="rgb(177,162,166)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -435,7 +435,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(240,198,203)">
+  <stop offset="100%" stop-color="rgb(231,231,238)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -448,7 +448,7 @@
 
 
 <linearGradient id="195-39">
-  <stop offset="0%" stop-color="rgb(217,222,239)">
+  <stop offset="0%" stop-color="rgb(249,193,213)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -456,7 +456,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(132,242,130)">
+  <stop offset="100%" stop-color="rgb(136,130,163)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -469,7 +469,7 @@
 
 
 <linearGradient id="195-78">
-  <stop offset="0%" stop-color="rgb(181,215,129)">
+  <stop offset="0%" stop-color="rgb(198,243,236)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -477,7 +477,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(227,142,224)">
+  <stop offset="100%" stop-color="rgb(248,220,241)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -490,7 +490,7 @@
 
 
 <linearGradient id="195-117">
-  <stop offset="0%" stop-color="rgb(141,134,190)">
+  <stop offset="0%" stop-color="rgb(223,156,135)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -498,7 +498,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(247,233,227)">
+  <stop offset="100%" stop-color="rgb(213,250,199)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -511,7 +511,7 @@
 
 
 <linearGradient id="234-0">
-  <stop offset="0%" stop-color="rgb(224,215,193)">
+  <stop offset="0%" stop-color="rgb(250,200,214)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -519,7 +519,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(212,226,221)">
+  <stop offset="100%" stop-color="rgb(252,145,146)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -532,7 +532,7 @@
 
 
 <linearGradient id="234-39">
-  <stop offset="0%" stop-color="rgb(197,181,147)">
+  <stop offset="0%" stop-color="rgb(135,149,222)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -540,7 +540,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(156,167,215)">
+  <stop offset="100%" stop-color="rgb(214,239,173)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -553,7 +553,7 @@
 
 
 <linearGradient id="234-78">
-  <stop offset="0%" stop-color="rgb(159,183,134)">
+  <stop offset="0%" stop-color="rgb(137,150,171)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -561,7 +561,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(254,142,162)">
+  <stop offset="100%" stop-color="rgb(172,207,168)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -574,7 +574,7 @@
 
 
 <linearGradient id="234-117">
-  <stop offset="0%" stop-color="rgb(144,250,252)">
+  <stop offset="0%" stop-color="rgb(200,214,212)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -582,7 +582,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(166,157,154)">
+  <stop offset="100%" stop-color="rgb(237,173,147)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -595,7 +595,7 @@
 
 
 <linearGradient id="273-0">
-  <stop offset="0%" stop-color="rgb(212,149,215)">
+  <stop offset="0%" stop-color="rgb(183,242,151)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -603,7 +603,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(168,207,200)">
+  <stop offset="100%" stop-color="rgb(135,240,155)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -616,7 +616,7 @@
 
 
 <linearGradient id="273-39">
-  <stop offset="0%" stop-color="rgb(208,208,229)">
+  <stop offset="0%" stop-color="rgb(235,186,252)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -624,7 +624,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(147,246,210)">
+  <stop offset="100%" stop-color="rgb(245,128,232)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -637,7 +637,7 @@
 
 
 <linearGradient id="273-78">
-  <stop offset="0%" stop-color="rgb(238,228,128)">
+  <stop offset="0%" stop-color="rgb(183,222,241)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -645,7 +645,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(171,210,224)">
+  <stop offset="100%" stop-color="rgb(224,172,182)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -658,7 +658,7 @@
 
 
 <linearGradient id="273-117">
-  <stop offset="0%" stop-color="rgb(143,141,182)">
+  <stop offset="0%" stop-color="rgb(227,247,234)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -666,7 +666,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(238,176,137)">
+  <stop offset="100%" stop-color="rgb(173,177,154)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -679,7 +679,7 @@
 
 
 <linearGradient id="312-0">
-  <stop offset="0%" stop-color="rgb(232,148,189)">
+  <stop offset="0%" stop-color="rgb(174,176,178)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -687,7 +687,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(227,210,184)">
+  <stop offset="100%" stop-color="rgb(190,150,214)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -700,7 +700,7 @@
 
 
 <linearGradient id="312-39">
-  <stop offset="0%" stop-color="rgb(145,206,192)">
+  <stop offset="0%" stop-color="rgb(132,188,171)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -708,7 +708,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(236,229,137)">
+  <stop offset="100%" stop-color="rgb(166,166,244)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -721,7 +721,7 @@
 
 
 <linearGradient id="312-78">
-  <stop offset="0%" stop-color="rgb(223,150,135)">
+  <stop offset="0%" stop-color="rgb(141,171,237)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -729,7 +729,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(244,146,162)">
+  <stop offset="100%" stop-color="rgb(211,250,198)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -742,7 +742,7 @@
 
 
 <linearGradient id="312-117">
-  <stop offset="0%" stop-color="rgb(187,246,226)">
+  <stop offset="0%" stop-color="rgb(222,137,163)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -750,7 +750,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(241,164,143)">
+  <stop offset="100%" stop-color="rgb(237,157,165)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -763,7 +763,7 @@
 
 
 <linearGradient id="351-0">
-  <stop offset="0%" stop-color="rgb(222,240,232)">
+  <stop offset="0%" stop-color="rgb(185,184,190)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -771,7 +771,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(132,179,242)">
+  <stop offset="100%" stop-color="rgb(159,203,173)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -784,7 +784,7 @@
 
 
 <linearGradient id="351-39">
-  <stop offset="0%" stop-color="rgb(131,238,220)">
+  <stop offset="0%" stop-color="rgb(244,194,155)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -792,7 +792,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(160,253,252)">
+  <stop offset="100%" stop-color="rgb(131,135,197)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -805,7 +805,7 @@
 
 
 <linearGradient id="351-78">
-  <stop offset="0%" stop-color="rgb(169,196,143)">
+  <stop offset="0%" stop-color="rgb(238,176,184)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -813,7 +813,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(147,211,184)">
+  <stop offset="100%" stop-color="rgb(176,145,232)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -826,7 +826,7 @@
 
 
 <linearGradient id="351-117">
-  <stop offset="0%" stop-color="rgb(150,223,140)">
+  <stop offset="0%" stop-color="rgb(233,248,146)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -834,7 +834,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(215,151,212)">
+  <stop offset="100%" stop-color="rgb(217,208,151)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -847,7 +847,7 @@
 
 
 <linearGradient id="390-0">
-  <stop offset="0%" stop-color="rgb(254,244,131)">
+  <stop offset="0%" stop-color="rgb(171,218,175)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -855,7 +855,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(133,144,193)">
+  <stop offset="100%" stop-color="rgb(163,190,193)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -868,7 +868,7 @@
 
 
 <linearGradient id="390-39">
-  <stop offset="0%" stop-color="rgb(133,167,209)">
+  <stop offset="0%" stop-color="rgb(136,220,150)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -876,7 +876,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(215,178,169)">
+  <stop offset="100%" stop-color="rgb(153,164,209)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -889,7 +889,7 @@
 
 
 <linearGradient id="390-78">
-  <stop offset="0%" stop-color="rgb(152,212,253)">
+  <stop offset="0%" stop-color="rgb(180,246,200)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -897,7 +897,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(167,156,210)">
+  <stop offset="100%" stop-color="rgb(207,128,190)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -910,7 +910,7 @@
 
 
 <linearGradient id="390-117">
-  <stop offset="0%" stop-color="rgb(240,135,159)">
+  <stop offset="0%" stop-color="rgb(130,141,204)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -918,7 +918,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(189,130,131)">
+  <stop offset="100%" stop-color="rgb(190,166,229)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -931,7 +931,7 @@
 
 
 <linearGradient id="429-0">
-  <stop offset="0%" stop-color="rgb(132,199,162)">
+  <stop offset="0%" stop-color="rgb(210,150,162)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -939,7 +939,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(227,164,211)">
+  <stop offset="100%" stop-color="rgb(144,240,171)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -952,7 +952,7 @@
 
 
 <linearGradient id="429-39">
-  <stop offset="0%" stop-color="rgb(204,248,238)">
+  <stop offset="0%" stop-color="rgb(219,252,215)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -960,7 +960,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(209,158,138)">
+  <stop offset="100%" stop-color="rgb(209,229,208)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -973,7 +973,7 @@
 
 
 <linearGradient id="429-78">
-  <stop offset="0%" stop-color="rgb(166,135,206)">
+  <stop offset="0%" stop-color="rgb(187,130,172)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -981,7 +981,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(134,172,232)">
+  <stop offset="100%" stop-color="rgb(203,197,216)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -994,7 +994,7 @@
 
 
 <linearGradient id="429-117">
-  <stop offset="0%" stop-color="rgb(221,163,138)">
+  <stop offset="0%" stop-color="rgb(236,207,198)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1002,7 +1002,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(244,214,185)">
+  <stop offset="100%" stop-color="rgb(157,129,233)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1015,7 +1015,7 @@
 
 
 <linearGradient id="468-0">
-  <stop offset="0%" stop-color="rgb(239,253,200)">
+  <stop offset="0%" stop-color="rgb(157,245,166)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1023,7 +1023,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(211,161,133)">
+  <stop offset="100%" stop-color="rgb(180,162,233)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1036,7 +1036,7 @@
 
 
 <linearGradient id="468-39">
-  <stop offset="0%" stop-color="rgb(151,231,253)">
+  <stop offset="0%" stop-color="rgb(206,255,232)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1044,7 +1044,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(152,187,225)">
+  <stop offset="100%" stop-color="rgb(225,247,183)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1057,7 +1057,7 @@
 
 
 <linearGradient id="468-78">
-  <stop offset="0%" stop-color="rgb(211,147,149)">
+  <stop offset="0%" stop-color="rgb(225,173,251)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1065,7 +1065,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(237,181,130)">
+  <stop offset="100%" stop-color="rgb(131,131,219)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1078,7 +1078,7 @@
 
 
 <linearGradient id="468-117">
-  <stop offset="0%" stop-color="rgb(211,135,151)">
+  <stop offset="0%" stop-color="rgb(131,178,129)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1086,7 +1086,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(163,190,140)">
+  <stop offset="100%" stop-color="rgb(221,204,147)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1099,7 +1099,7 @@
 
 
 <linearGradient id="507-0">
-  <stop offset="0%" stop-color="rgb(183,220,207)">
+  <stop offset="0%" stop-color="rgb(201,146,171)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1107,7 +1107,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(144,202,194)">
+  <stop offset="100%" stop-color="rgb(200,197,143)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1120,7 +1120,7 @@
 
 
 <linearGradient id="507-39">
-  <stop offset="0%" stop-color="rgb(159,154,190)">
+  <stop offset="0%" stop-color="rgb(255,158,200)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1128,7 +1128,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(198,198,238)">
+  <stop offset="100%" stop-color="rgb(142,130,130)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1141,7 +1141,7 @@
 
 
 <linearGradient id="507-78">
-  <stop offset="0%" stop-color="rgb(132,157,208)">
+  <stop offset="0%" stop-color="rgb(168,221,224)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1149,7 +1149,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(232,141,210)">
+  <stop offset="100%" stop-color="rgb(129,232,221)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1162,7 +1162,7 @@
 
 
 <linearGradient id="507-117">
-  <stop offset="0%" stop-color="rgb(249,129,128)">
+  <stop offset="0%" stop-color="rgb(245,223,239)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1170,7 +1170,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(163,155,195)">
+  <stop offset="100%" stop-color="rgb(153,223,135)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1183,7 +1183,7 @@
 
 
 <linearGradient id="546-0">
-  <stop offset="0%" stop-color="rgb(148,185,245)">
+  <stop offset="0%" stop-color="rgb(154,161,251)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1191,7 +1191,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(190,130,219)">
+  <stop offset="100%" stop-color="rgb(234,222,166)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1204,7 +1204,7 @@
 
 
 <linearGradient id="546-39">
-  <stop offset="0%" stop-color="rgb(185,245,178)">
+  <stop offset="0%" stop-color="rgb(203,188,143)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1212,7 +1212,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(133,185,146)">
+  <stop offset="100%" stop-color="rgb(185,212,252)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1225,7 +1225,7 @@
 
 
 <linearGradient id="546-78">
-  <stop offset="0%" stop-color="rgb(190,202,128)">
+  <stop offset="0%" stop-color="rgb(215,203,191)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1233,7 +1233,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(226,151,234)">
+  <stop offset="100%" stop-color="rgb(193,226,190)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1246,7 +1246,7 @@
 
 
 <linearGradient id="546-117">
-  <stop offset="0%" stop-color="rgb(134,232,212)">
+  <stop offset="0%" stop-color="rgb(136,209,232)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1254,7 +1254,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(219,250,222)">
+  <stop offset="100%" stop-color="rgb(186,238,192)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1267,7 +1267,7 @@
 
 
 <linearGradient id="585-0">
-  <stop offset="0%" stop-color="rgb(129,135,200)">
+  <stop offset="0%" stop-color="rgb(210,206,177)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1275,7 +1275,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(239,149,196)">
+  <stop offset="100%" stop-color="rgb(255,212,148)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1288,7 +1288,7 @@
 
 
 <linearGradient id="585-39">
-  <stop offset="0%" stop-color="rgb(184,244,142)">
+  <stop offset="0%" stop-color="rgb(143,186,252)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1296,7 +1296,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(224,152,251)">
+  <stop offset="100%" stop-color="rgb(186,219,182)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1309,7 +1309,7 @@
 
 
 <linearGradient id="585-78">
-  <stop offset="0%" stop-color="rgb(203,190,183)">
+  <stop offset="0%" stop-color="rgb(172,211,194)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1317,7 +1317,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(189,197,152)">
+  <stop offset="100%" stop-color="rgb(220,129,133)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1330,7 +1330,7 @@
 
 
 <linearGradient id="585-117">
-  <stop offset="0%" stop-color="rgb(177,164,230)">
+  <stop offset="0%" stop-color="rgb(253,244,162)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1338,7 +1338,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(214,241,146)">
+  <stop offset="100%" stop-color="rgb(253,186,184)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1351,7 +1351,7 @@
 
 
 <linearGradient id="624-0">
-  <stop offset="0%" stop-color="rgb(241,226,241)">
+  <stop offset="0%" stop-color="rgb(242,166,167)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1359,7 +1359,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(221,230,204)">
+  <stop offset="100%" stop-color="rgb(242,150,156)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1372,7 +1372,7 @@
 
 
 <linearGradient id="624-39">
-  <stop offset="0%" stop-color="rgb(189,129,222)">
+  <stop offset="0%" stop-color="rgb(210,187,204)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1380,7 +1380,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(192,182,204)">
+  <stop offset="100%" stop-color="rgb(206,235,158)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1393,7 +1393,7 @@
 
 
 <linearGradient id="624-78">
-  <stop offset="0%" stop-color="rgb(221,244,251)">
+  <stop offset="0%" stop-color="rgb(140,162,193)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1401,7 +1401,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(201,192,200)">
+  <stop offset="100%" stop-color="rgb(231,138,203)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1414,7 +1414,7 @@
 
 
 <linearGradient id="624-117">
-  <stop offset="0%" stop-color="rgb(147,127,160)">
+  <stop offset="0%" stop-color="rgb(227,219,137)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1422,7 +1422,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(159,217,183)">
+  <stop offset="100%" stop-color="rgb(212,195,145)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1435,7 +1435,7 @@
 
 
 <linearGradient id="663-0">
-  <stop offset="0%" stop-color="rgb(199,184,199)">
+  <stop offset="0%" stop-color="rgb(168,243,185)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1443,7 +1443,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(153,250,242)">
+  <stop offset="100%" stop-color="rgb(164,142,178)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1456,7 +1456,7 @@
 
 
 <linearGradient id="663-39">
-  <stop offset="0%" stop-color="rgb(163,144,210)">
+  <stop offset="0%" stop-color="rgb(167,133,130)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1464,7 +1464,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(188,241,146)">
+  <stop offset="100%" stop-color="rgb(244,248,181)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1477,7 +1477,7 @@
 
 
 <linearGradient id="663-78">
-  <stop offset="0%" stop-color="rgb(232,158,230)">
+  <stop offset="0%" stop-color="rgb(241,172,156)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1485,7 +1485,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(246,231,235)">
+  <stop offset="100%" stop-color="rgb(230,218,160)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1498,7 +1498,7 @@
 
 
 <linearGradient id="663-117">
-  <stop offset="0%" stop-color="rgb(191,139,229)">
+  <stop offset="0%" stop-color="rgb(182,204,253)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1506,7 +1506,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(168,247,219)">
+  <stop offset="100%" stop-color="rgb(247,236,208)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1519,7 +1519,7 @@
 
 
 <linearGradient id="702-0">
-  <stop offset="0%" stop-color="rgb(211,189,204)">
+  <stop offset="0%" stop-color="rgb(219,227,221)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1527,7 +1527,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(205,155,157)">
+  <stop offset="100%" stop-color="rgb(248,146,242)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1540,7 +1540,7 @@
 
 
 <linearGradient id="702-39">
-  <stop offset="0%" stop-color="rgb(139,218,197)">
+  <stop offset="0%" stop-color="rgb(197,202,194)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1548,7 +1548,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(232,197,250)">
+  <stop offset="100%" stop-color="rgb(219,169,241)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1561,7 +1561,7 @@
 
 
 <linearGradient id="702-78">
-  <stop offset="0%" stop-color="rgb(145,136,168)">
+  <stop offset="0%" stop-color="rgb(157,211,148)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1569,7 +1569,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(176,165,148)">
+  <stop offset="100%" stop-color="rgb(158,255,238)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1582,7 +1582,7 @@
 
 
 <linearGradient id="702-117">
-  <stop offset="0%" stop-color="rgb(163,241,217)">
+  <stop offset="0%" stop-color="rgb(223,245,202)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1590,7 +1590,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(205,235,225)">
+  <stop offset="100%" stop-color="rgb(189,225,144)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1603,7 +1603,7 @@
 
 
 <linearGradient id="741-0">
-  <stop offset="0%" stop-color="rgb(152,229,148)">
+  <stop offset="0%" stop-color="rgb(253,248,249)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1611,7 +1611,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(188,210,223)">
+  <stop offset="100%" stop-color="rgb(186,196,170)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1624,7 +1624,7 @@
 
 
 <linearGradient id="741-39">
-  <stop offset="0%" stop-color="rgb(188,173,219)">
+  <stop offset="0%" stop-color="rgb(156,184,228)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1632,7 +1632,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(170,221,128)">
+  <stop offset="100%" stop-color="rgb(237,154,249)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1645,7 +1645,7 @@
 
 
 <linearGradient id="741-78">
-  <stop offset="0%" stop-color="rgb(238,228,131)">
+  <stop offset="0%" stop-color="rgb(148,177,129)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1653,7 +1653,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(183,156,154)">
+  <stop offset="100%" stop-color="rgb(216,214,191)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1666,7 +1666,7 @@
 
 
 <linearGradient id="741-117">
-  <stop offset="0%" stop-color="rgb(208,237,130)">
+  <stop offset="0%" stop-color="rgb(146,140,145)">
     <animate
       attributeName="offset"
       dur="2000ms"
@@ -1674,7 +1674,7 @@
       repeatCount="indefinite"
     />
   </stop>
-  <stop offset="100%" stop-color="rgb(253,142,130)">
+  <stop offset="100%" stop-color="rgb(221,153,208)">
     <animate
       attributeName="offset"
       dur="2000ms"
