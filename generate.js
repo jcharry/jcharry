@@ -29,7 +29,7 @@ for (let i = 0; i < gridSize[0]; i++) {
     const y = j * boxSize + j * (gutterSize - 1)
     const startColor = `rgb(${makeColor([255, 255, 255]).join(',')})`
     const stopColor = `rgb(${makeColor([255, 255, 255]).join(',')})`
-    const randomDuration = Math.floor(Math.random * 1000) + 1000
+    const randomDuration = Math.floor(Math.random() * 1000) + 1000
     rects.push(
       `<rect x="${x}px" y="${y}px" width="${boxSize}px" height="${boxSize}" fill="url(#${x}-${y})" filter="url(#blurMe)"></rect>`
     )
