@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/jcharry/jcharry/master/svg.svg" />
+<img src="https://raw.githubusercontent.com/jcharry/jcharry/main/svg.svg" />
