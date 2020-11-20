@@ -58,9 +58,9 @@ for (let i = 0; i < gridSize[0]; i++) {
 }
 
 const svg = `
-<svg version="1.1" width="${frameSize[0]}" height="${
-  frameSize[1]
-}" viewBox="0 0 ${frameSize[0]} ${frameSize[1]}">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="${
+  frameSize[0]
+}" height="${frameSize[1]}" viewBox="0 0 ${frameSize[0]} ${frameSize[1]}">
   <defs>
     <filter id="blurMe">
      <feGaussianBlur stdDeviation="1"/>
