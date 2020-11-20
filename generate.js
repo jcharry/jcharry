@@ -32,7 +32,7 @@ for (let i = 0; i < gridSize[0]; i++) {
     const stopColor = `rgb(${makeColor(i, j).join(',')})`
     const randomDuration = 2000
     rects.push(
-      `<rect x="${x}px" y="${y}px" width="${boxSize}px" height="${boxSize}" fill="url(#${x}-${y})" filter="url(#blurMe)"></rect>`
+      `<circle r="${boxSize}px" x="${x}px" y="${y}px" width="${boxSize}px" height="${boxSize}" fill="startColor" filter="url(#blurMe)"></rect>`
     )
 
     //     defs.push(`
